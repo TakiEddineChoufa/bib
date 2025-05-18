@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "Titre": "Nom",
+        "Auteur": "Moi",
+        "Année": 2000,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": null
+    },
+    {
+        "ID": 2,
+        "Titre": "1984",
+        "Auteur": "George Orwell",
+        "Année": 1949,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": null
+    }
+]
